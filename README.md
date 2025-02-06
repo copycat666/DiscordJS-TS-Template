@@ -12,7 +12,7 @@ Discord bot template using Discord.js and TypeScript for modern development.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/DiscordJS-TS-Template.git
+    git clone https://github.com/copycat666/DiscordJS-TS-Template.git
     cd DiscordJS-TS-Template
     ```
 
