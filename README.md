@@ -27,7 +27,10 @@ Discord bot template using Discord.js and TypeScript for modern development.
     ```env
     DISCORD_TOKEN=your-discord-token
     DISCORD_CLIENT_ID=your-discord-client-id
+    DISCORD_SERVER_ID="your-discord-server-id"
     ```
+
+    The `DISCORD_SERVER_ID` is optional and is used to deploy commands to a specific server.
 
 ### Running the Bot
 

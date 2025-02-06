@@ -1,5 +1,5 @@
 import { deployCommands } from "./deploy-commands";
+import { config } from "./config";
 
 
-
-deployCommands({ guildId: "938836696013885520" });
+deployCommands({ guildId: config.DISCORD_SERVER_ID });
